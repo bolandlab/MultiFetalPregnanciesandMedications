@@ -1,5 +1,6 @@
 # MultiFetalPregnanciesandMedications
 For holding relevant files related to the manuscript (Medication-Wide Association Study Using Electronic Health Record Data of Prescription Medication Exposure and Multifetal Pregnancies: Retrospective Study) by Davidson, Canelon, Boland
+Full text of the paper is located here: https://medinform.jmir.org/2022/6/e32229
 
 This folder contains the following files:
 
