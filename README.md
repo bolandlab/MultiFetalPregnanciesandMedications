@@ -20,3 +20,6 @@ This folder contains the following files:
 
 8.) **medinform_v10i6e32229_app8.pdf** This contains a figure showing a Stacked Bar Chart of Patients with Assisted Reproductive Technology and Fertility
 Diagnosis and Patients with Fertility Medication Prescriptions.
+
+9.) **multi_fetal_definition_davidson.csv** This contains a comma separated file that is the same information that is in **medinform_v10i6e32229_app1.docx** but is more easily computable.
+
